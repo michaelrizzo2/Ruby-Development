@@ -11,7 +11,7 @@ class Dog
 	end
 
 	def talk
-		return "Dog says woof"
+		puts "Dog says woof"
 	end
 end
 
