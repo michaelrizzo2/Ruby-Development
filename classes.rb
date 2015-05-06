@@ -9,8 +9,13 @@ class Dog
 	def get_name
 		return @myname
 	end
+
+	def talk
+		return "Dog says woof"
+	end
 end
 
 my_dog=Dog.new
 my_dog.set_name("Michael")
 my_dog.get_name
+my_dog.talk
