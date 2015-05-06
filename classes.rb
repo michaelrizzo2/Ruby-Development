@@ -7,3 +7,5 @@ class Dog
 	end
 end
 
+my_dog=Dog.new
+my_dog.set_name("Michael")
