@@ -16,4 +16,9 @@ class Treasure
 		@name=name
 		@description=description
 	end
+
+	def to_s#This will override the default to_s method
+		#implicit return statement
+		"The name is #{@name} and the description is #{@description}"
+	end
 end
