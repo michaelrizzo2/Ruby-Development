@@ -25,3 +25,5 @@ end
 
 #This is where we will set up the thing1 object
 thing1=Thing.new
+#This is where we will set up the name for thing1
+thing1.set_name("My nice thing")
