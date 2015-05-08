@@ -27,3 +27,6 @@ end
 thing1=Thing.new
 #This is where we will set up the name for thing1
 thing1.set_name("My nice thing")
+#Now we will set up the treasure object
+t1=Treasure.new("Vim","Powerful editor")
+
