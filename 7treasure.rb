@@ -30,3 +30,5 @@ thing1.set_name("My nice thing")
 #Now we will set up the treasure object
 t1=Treasure.new("Vim","Powerful editor")
 puts t1.to_s
+#The inspect method lets you look inside an object
+puts "Inspecting treasure object #{t1.inspect}"
