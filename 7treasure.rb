@@ -22,3 +22,6 @@ class Treasure
 		"The name is #{@name} and the description is #{@description}"
 	end
 end
+
+#This is where we will set up the thing1 object
+thing1=Thing.new
