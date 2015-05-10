@@ -24,3 +24,19 @@ class Thing
 	end
 
 end
+
+class Treasure<Thing
+	#Treasure class inherits all properties from Thing class
+	def initialize(name,description,value)
+		super(name,description)
+		@value=value
+	end
+
+	def get_value
+		return @value
+	end
+
+	def set_value(value)
+		@value=value
+	end
+end
