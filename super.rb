@@ -42,3 +42,14 @@ class Thing3<Thing2
 
 end
 
+class Thing4<Thing3
+	def aMethod
+		puts "Thing4.amethod:#{self.inspect}\n\n"
+	end
+
+class Thing5<Thing4
+	def aMethod
+		puts "Thing4.amethod:#{self.inspect}\n\n"
+	end
+end
+
