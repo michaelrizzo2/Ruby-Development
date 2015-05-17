@@ -27,3 +27,18 @@ class Thing2<Thing
 
 end
 
+class Thing3<Thing2
+	def initialize(name,description,value)
+		super(name,description)
+		@value=value
+		puts "Thing3.initialize:#{self.inspect}\n\n"
+	end
+
+	def amethod(aNewName,aNewDescription,aNewValue)
+		super(aNewName,aNewDescription)
+		@value=aNewValue
+		puts "Thing3.amethod:#{self.inspect}\n\n"
+	end
+
+end
+
