@@ -4,6 +4,7 @@ class Thing
 	def initialize(name,description)
 		@name=name
 		@description=description
+		puts "Thing.initialize:#{self.inspect}\n\n"
 	end
 
 	def amethod(aNewName)
