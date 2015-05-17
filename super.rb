@@ -19,9 +19,10 @@ class Thing2<Thing
 		puts "Thing2.initialize:#{self.inspect}\n\n"
 	end
 
-	def amethod(aNewName)
+	def amethod(aNewName,aNewDescription)
 		super(aNewName)
 		puts "Thing2.amethod:#{self.inspect}\n\n"
 	end
 
 end
+
