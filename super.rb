@@ -46,6 +46,7 @@ class Thing4<Thing3
 	def amethod
 		puts "Thing4.amethod:#{self.inspect}\n\n"
 	end
+end
 
 class Thing5<Thing4
 end
