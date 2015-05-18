@@ -43,7 +43,7 @@ class Thing3<Thing2
 end
 
 class Thing4<Thing3
-	def aMethod
+	def amethod
 		puts "Thing4.amethod:#{self.inspect}\n\n"
 	end
 
