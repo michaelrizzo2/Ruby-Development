@@ -1,0 +1,8 @@
+Local variable is now 10
+Global variable is now Goodbye
+Local variable is now 500
+Global variable is now bonjour
+Local variable is now 500
+Global variable is now bonjour
+Local variable is Hello
+Global variable is bonjour
