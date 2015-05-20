@@ -1,0 +1,4 @@
+Thing.initialize:#<Thing:0x00000000cd2300 @name="Arch Beast", @description="Web Development and Ruby Machine">
+
+Thing.amethod:#<Thing:0x00000000cd2300 @name="New Arch Beast", @description="Web Development and Ruby Machine">
+
