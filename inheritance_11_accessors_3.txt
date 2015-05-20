@@ -1,0 +1,2 @@
+#<Treasure:0x00000002383e00 @name="my treasure", @description="Every unix tool you could want", @value=10000000>
+#<Treasure:0x00000002383e00 @name="my treasure", @description="All the unix tools you could want", @value=10000000>
