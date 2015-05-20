@@ -51,3 +51,5 @@ end
 class Thing5<Thing4
 end
 
+my_thing=Thing.new("Arch Beast","Web Development and Ruby Machine")
+my_thing.amethod("New Arch Beast")
