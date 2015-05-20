@@ -1,0 +1,2 @@
+Enter Price before tax
+The subtotal is $10.0 and the tax is $1.75, the grand total is  $11.75
