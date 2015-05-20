@@ -1,0 +1,2 @@
+The name is Vim and the description is Powerful editor
+Inspecting treasure object #<Treasure:0x00000000899db0 @name="Vim", @description="Powerful editor">
