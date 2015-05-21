@@ -15,12 +15,14 @@ end
 
 class Thing2<Thing
 	def initialize(name,description)
+		#Calling super with no arguements will call the same method from the parent of the subclass with the arguements forwarded
 		super
 		@fulldescription="The name is #{@name} and the description is #{@description}"
 		puts "Thing2.initialize:#{self.inspect}\n\n"
 	end
 
 	def amethod(aNewName,aNewDescription)
+		#Calling previous method from parent class with same method name with arguement chosen
 		super(aNewName)
 		puts "Thing2.amethod:#{self.inspect}\n\n"
 	end
@@ -53,3 +55,5 @@ end
 
 my_thing=Thing.new("Arch Beast","Web Development and Ruby Machine")
 my_thing.amethod("New Arch Beast")
+my_thing2=Thing2.new("Gentoo Desktop","Learning how linux works")
+my_thing2.amethod("My Gentoo Desktop","Great Learning Experience")
