@@ -1,0 +1,12 @@
+Thing.initialize:#<Thing:0x00000000d69de0 @name="Arch Beast", @description="Web Development and Ruby Machine">
+
+Thing.amethod:#<Thing:0x00000000d69de0 @name="New Arch Beast", @description="Web Development and Ruby Machine">
+
+Thing.initialize:#<Thing2:0x00000000d69b10 @name="Gentoo Desktop", @description="Learning how linux works">
+
+Thing2.initialize:#<Thing2:0x00000000d69b10 @name="Gentoo Desktop", @description="Learning how linux works", @fulldescription="The name is Gentoo Desktop and the description is Learning how linux works">
+
+Thing.amethod:#<Thing2:0x00000000d69b10 @name="My Gentoo Desktop", @description="Learning how linux works", @fulldescription="The name is Gentoo Desktop and the description is Learning how linux works">
+
+Thing2.amethod:#<Thing2:0x00000000d69b10 @name="My Gentoo Desktop", @description="Learning how linux works", @fulldescription="The name is Gentoo Desktop and the description is Learning how linux works">
+
