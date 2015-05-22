@@ -53,7 +53,9 @@ end
 class Thing5<Thing4
 end
 
-my_thing=Thing.new("Arch Beast","Web Development and Ruby Machine")
-my_thing.amethod("New Arch Beast")
-my_thing2=Thing2.new("Gentoo Desktop","Learning how linux works")
-my_thing2.amethod("My Gentoo Desktop","Great Learning Experience")
+#my_thing=Thing.new("Arch Beast","Web Development and Ruby Machine")
+#my_thing.amethod("New Arch Beast")
+#my_thing2=Thing2.new("Gentoo Desktop","Learning how linux works")
+#my_thing2.amethod("My Gentoo Desktop","Great Learning Experience")
+my_thing3=Thing3.new("My Gentoo Desktop","Rock Stable",1536)
+my_thing3.amethod("My Gentoo Desktop","Rock Stable",512)
