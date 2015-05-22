@@ -1,0 +1,12 @@
+Thing.initialize:#<Thing3:0x000000023ce0b8 @name="My Gentoo Desktop", @description="Rock Stable">
+
+Thing2.initialize:#<Thing3:0x000000023ce0b8 @name="My Gentoo Desktop", @description="Rock Stable", @fulldescription="The name is My Gentoo Desktop and the description is Rock Stable">
+
+Thing3.initialize:#<Thing3:0x000000023ce0b8 @name="My Gentoo Desktop", @description="Rock Stable", @fulldescription="The name is My Gentoo Desktop and the description is Rock Stable", @value=1536>
+
+Thing.amethod:#<Thing3:0x000000023ce0b8 @name="My Gentoo Desktop", @description="Rock Stable", @fulldescription="The name is My Gentoo Desktop and the description is Rock Stable", @value=1536>
+
+Thing2.amethod:#<Thing3:0x000000023ce0b8 @name="My Gentoo Desktop", @description="Rock Stable", @fulldescription="The name is My Gentoo Desktop and the description is Rock Stable", @value=1536>
+
+Thing3.amethod:#<Thing3:0x000000023ce0b8 @name="My Gentoo Desktop", @description="Rock Stable", @fulldescription="The name is My Gentoo Desktop and the description is Rock Stable", @value=512>
+
