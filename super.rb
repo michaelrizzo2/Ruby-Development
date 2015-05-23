@@ -57,5 +57,8 @@ end
 #my_thing.amethod("New Arch Beast")
 #my_thing2=Thing2.new("Gentoo Desktop","Learning how linux works")
 #my_thing2.amethod("My Gentoo Desktop","Great Learning Experience")
-my_thing3=Thing3.new("My Gentoo Desktop","Rock Stable",1536)
-my_thing3.amethod("My Gentoo Desktop","Rock Stable",512)
+#my_thing3=Thing3.new("My Gentoo Desktop","Rock Stable",1536)
+#my_thing3.amethod("My Gentoo Desktop","Rock Stable",512)
+#initialize method is borrowed from Thing 3 class and overwritten amethod is from Thing 4 class
+my_thing4=Thing4.new("Gateway Laptop","Windows 10 10074",4096)
+my_thing4.amethod
