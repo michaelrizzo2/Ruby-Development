@@ -1,0 +1,8 @@
+Thing.initialize:#<Thing4:0x00000001f66278 @name="Gateway Laptop", @description="Windows 10 10074">
+
+Thing2.initialize:#<Thing4:0x00000001f66278 @name="Gateway Laptop", @description="Windows 10 10074", @fulldescription="The name is Gateway Laptop and the description is Windows 10 10074">
+
+Thing3.initialize:#<Thing4:0x00000001f66278 @name="Gateway Laptop", @description="Windows 10 10074", @fulldescription="The name is Gateway Laptop and the description is Windows 10 10074", @value=4096>
+
+Thing4.amethod:#<Thing4:0x00000001f66278 @name="Gateway Laptop", @description="Windows 10 10074", @fulldescription="The name is Gateway Laptop and the description is Windows 10 10074", @value=4096>
+
