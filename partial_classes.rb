@@ -28,3 +28,9 @@ class B<A
 		puts "ba2"
 	end
 end
+
+ob=B.new
+ob.a
+ob.b
+ob.ba1
+ob.ba2
