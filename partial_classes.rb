@@ -14,7 +14,7 @@ class B<A
 		puts "ba1"
 	end
 end
-#
+
 #This is the second part of class A
 class A
 	def b 
