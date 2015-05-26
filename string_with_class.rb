@@ -14,3 +14,6 @@ class MyClass
 	end
 
 end
+
+my_object=MyClass.new("Michael Rizzo",26)
+puts "My name is #{my_object.name} and my number is #{my_object.number}"
