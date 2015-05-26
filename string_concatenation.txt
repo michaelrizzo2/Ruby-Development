@@ -1,0 +1,6 @@
+String concatenation in ruby using <<
+HelloWorld
+String concatenation in ruby using +
+HelloWorld
+String concatenation in ruby using a blank space
+HelloWorld
