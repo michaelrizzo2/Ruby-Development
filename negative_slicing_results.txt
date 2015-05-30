@@ -1,0 +1,3 @@
+array slicing with negative indices using the comma notation
+d
+world
