@@ -1,0 +1,5 @@
+1) s='hello world' and s.object_id=9863320
+2) s='hello world!' and s.object_id=9863200
+3) s='Hello world!' and s.object_id=7797920
+4) s='Hello world!' and s.object_id=7797920
+5) s='HAllo world!' and s.object_id=7797920
