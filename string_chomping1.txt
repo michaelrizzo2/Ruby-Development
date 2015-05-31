@@ -1,0 +1,4 @@
+Using the chop method on the first string results in Hello World
+Using the chomp method on the first string results in Hello World
+Using the chop method on the second string results in Hello Worl
+Using the chomp method on the second string results in Hello World
