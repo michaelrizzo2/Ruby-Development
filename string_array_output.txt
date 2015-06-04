@@ -1,0 +1,9 @@
+Showing y output
+i
+am
+a
+string
+of
+arrays
+Showing type of y output
+Array
