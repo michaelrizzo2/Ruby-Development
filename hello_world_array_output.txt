@@ -1,0 +1,1 @@
+My array is ["Hello World", "Hello World"]
