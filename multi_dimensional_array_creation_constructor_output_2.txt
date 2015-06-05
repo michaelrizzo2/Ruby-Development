@@ -1,0 +1,2 @@
+my array is [nil, nil]
+my array is [["Hello", "Hello"], ["world", "world"]]
