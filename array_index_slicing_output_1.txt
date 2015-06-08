@@ -1,0 +1,3 @@
+using the number of chracters from the starting index to slice the array
+First 5 letters are ["h", "e", "l", "l", "o"]
+Last 5 letters are ["w", "o", "r", "l", "d"]
