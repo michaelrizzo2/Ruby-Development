@@ -12,4 +12,7 @@ end
 
 myarray1=MyArray.new([0,1,2,3])
 myarray2=MyArray.new([1,2,3,4])
-puts "Comparison result is #{myarray1 <=> myarray2}"
+#puts "Comparison result is #{myarray1 <=> myarray2}"
+#showing how to compare array lengths using the Conparable module
+puts "Comparison result for less than operator is #{myarray1 < myarray2}"
+puts "Comparison result equal to operator is #{myarray1 == myarray2}"
