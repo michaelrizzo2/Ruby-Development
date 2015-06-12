@@ -1,0 +1,2 @@
+Comparison result for less than operator is false
+Comparison result equal to operator is true
