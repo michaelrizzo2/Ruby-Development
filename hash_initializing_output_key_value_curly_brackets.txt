@@ -1,0 +1,2 @@
+my hash is {"Treasure1"=>1, "Treasure2"=>2, "Treasure3"=>3, "Treasure4"=>4}
+my new hash is {"name"=>"Michael", "age"=>26, "Location"=>"Naples FL"}
