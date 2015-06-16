@@ -1,0 +1,1 @@
+the original hash is {"name"=>"Michael Rizzo", "age"=>26, "Location"=>"Naples FL"} and the new hash is {"name"=>"Michael Rizzo", "age"=>26, "Location"=>"Naples FL"}
