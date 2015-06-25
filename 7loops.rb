@@ -12,3 +12,7 @@ def tired
 	end 
 end
 
+def snore 
+	puts "Snore"
+end
+
