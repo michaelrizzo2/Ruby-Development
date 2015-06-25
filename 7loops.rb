@@ -16,3 +16,7 @@ def snore
 	puts "Snore"
 end
 
+def sleep
+	puts "z"*$hours_asleep
+end
+
