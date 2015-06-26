@@ -20,3 +20,4 @@ def sleep
 	puts "z"*$hours_asleep
 end
 
+while tired do sleep end
