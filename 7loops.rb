@@ -21,4 +21,9 @@ def sleep
 end
 
 #This is a single line while loop
-while tired do sleep end
+#while tired do sleep end
+
+#This is a multiline while loop
+while tired
+	sleep
+end
