@@ -3,16 +3,16 @@
 $hours_asleep=0
 
 def tired
-	if $hours_asleep>=8 then 
+	if $hours_asleep>=8 then
 		$hours_asleep=0
 		return false
 	else
 		$hours_asleep+=1
 		return true
-	end 
+	end
 end
 
-def snore 
+def snore
 	puts "Snore"
 end
 
@@ -28,4 +28,11 @@ end
 #	sleep
 #end
 
-sleep while tired #This is a single line while modifier
+#sleep while tired #This is a single line while modifier
+
+# do while modifier( while loop runs at least once)
+begin
+	sleep
+	snore
+end while tired
+
