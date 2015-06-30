@@ -9,3 +9,5 @@ until i==10
 	puts "Success"
 	i+=1
 end
+
+puts "Success" until i==10
