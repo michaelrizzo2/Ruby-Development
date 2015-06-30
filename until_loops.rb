@@ -5,3 +5,7 @@ i=10
 
 until i==10 do puts "Success" end
 
+until i==10
+	puts "Success"
+	i+=1
+end
