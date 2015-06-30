@@ -11,3 +11,7 @@ until i==10
 end
 
 puts "Success" until i==10
+
+begin
+	puts "Success"
+end until i==10
