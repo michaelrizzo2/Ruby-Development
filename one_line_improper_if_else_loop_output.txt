@@ -1,0 +1,6 @@
+one_line_if_loops.rb:5: syntax error, unexpected tIDENTIFIER, expecting keyword_then or ';' or '\n'
+if x==1 puts "OK" else puts "not ok" end
+            ^
+			one_line_if_loops.rb:5: syntax error, unexpected keyword_else, expecting end-of-input
+			if x==1 puts "OK" else puts "not ok" end
+
