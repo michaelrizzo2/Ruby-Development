@@ -9,7 +9,7 @@ while input !="q" do
 		break
 	elsif input.to_i>800
 		puts "Rate of pay too high"
-	elsif input.to_i<=800
+	elsif input.to_i<=800 && input.to_i>0
 		puts "We can afford that"
 	end
 end
