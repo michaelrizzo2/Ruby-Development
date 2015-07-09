@@ -11,6 +11,8 @@ while input !="q" do
 		puts "Rate of pay too high"
 	elsif input.to_i<=800 && input.to_i>0
 		puts "We can afford that"
+	else
+		puts "Please enter a number between 1 and 1000"
 	end
 end
 
