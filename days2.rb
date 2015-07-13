@@ -6,10 +6,16 @@ def showDay(i)
 	elsif i ==3 then puts "The day is wednesday"
 	elsif i ==4 then puts "The day is thursday"
 	elsif i ==5 then puts "The day is friday"
-	elsif (6..7)===i then puts "Weekend time"
+	#elsif (6..7)===i then puts "Weekend time"
+	elsif (6..7).include?(i) then puts "Weekend time"
 	#equivalent statement in python
 	#elif i in range(6,8)
 	else puts "That's not a real day" 
 	end
 	
+end
+
+(1..7).each do
+	|i|
+	showDay(i)
 end
